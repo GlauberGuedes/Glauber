@@ -3,8 +3,6 @@
 
 - 🏠 Sou de Salvador, Bahia.
 
-- 🌱 Aprendendo **ReactJS e NodeJS**
-
 - 📫 Como me encontrar: **glauber-94@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
