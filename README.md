@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Glauber</h1>
-<h3 align="center">Desenvolvedor Front-End Junior</h3>
+<h3 align="center">Desenvolvedor Front-End</h3>
 
 - 🏠 Sou de Salvador, Bahia.
 
